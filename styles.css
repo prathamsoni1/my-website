@@ -329,6 +329,7 @@
       #0D41E1,
       #0C63E7,
       #09A6F3
+        
     ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background-size: 100%;
     -webkit-background-clip: text;
@@ -467,7 +468,7 @@
       height: 250px;
     }
   
-    .fa-users,
+    .fa-envelope,
     .fa-layer-group {
       font-size: 4rem;
     }
