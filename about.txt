@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Suez One
+- Font Author: Copyright 2016 Michal Sahar. All rights reserved.
+- Font Source: http://fonts.gstatic.com/s/suezone/v11/taiJGmd_EZ6rqscQgNFJkIqg-I0w.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
